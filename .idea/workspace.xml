@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a1c9469-01fc-48da-a938-f459ea2d267e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/Ch2_recsys_basic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/Ch2_recsys_basic.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +12,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/2장-1.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/2장-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-447" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -80,13 +89,6 @@
               <item name="Recommendation" type="462c0819:PsiDirectoryNode" />
               <item name="Personalized rec-sys using Python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ROWILT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ROWILT" type="462c0819:PsiDirectoryNode" />
-              <item name="Recommendation" type="462c0819:PsiDirectoryNode" />
-              <item name="Personalized rec-sys using Python" type="462c0819:PsiDirectoryNode" />
-              <item name="데이터" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -123,6 +125,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -198,7 +201,14 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/2장-1.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/2장-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447" />
+      </provider>
     </entry>
   </component>
 </project>
