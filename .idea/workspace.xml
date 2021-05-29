@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a1c9469-01fc-48da-a938-f459ea2d267e" name="Default Changelist" comment="" />
+    <list default="true" id="8a1c9469-01fc-48da-a938-f459ea2d267e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/Ch3_recsys_CF.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/Ch3_recsys_CF.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +19,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/2장-2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-447" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/3장-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="22" selection-start-line="22" selection-end-line="40" selection-end-column="83" />
+              <folding>
+                <element signature="e#36#54#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -206,6 +220,16 @@
     <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/2장-2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-447" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommendation/Personalized rec-sys using Python/3장-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" selection-start-line="22" selection-end-line="40" selection-end-column="83" />
+          <folding>
+            <element signature="e#36#54#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
